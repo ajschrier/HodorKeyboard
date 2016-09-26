@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>HodorKeyboardContainer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>092775B31B476B7400A91DEB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>092775C71B476C7F00A91DEB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
